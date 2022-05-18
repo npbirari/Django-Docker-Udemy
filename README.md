@@ -1,1 +1,1 @@
-# Django-Docker-Udemy
+# DjangoTTD-Docker-UdemyCourse
